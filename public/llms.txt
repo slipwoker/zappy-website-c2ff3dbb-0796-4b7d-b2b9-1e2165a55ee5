@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://moriyatachshitim.zappy5.app
 מוריה תכשיטים בירושלים מציעה מבחר עשיר של טבעות, עגילי יהלום ותכשיטים בהתאמה אישית. שירות חם, מקצועי ומחירים הוגנים — בואו לגלות למה אלפי לקוחות חוזרים אלינו שוב ושוב.
 
 ### אוספים ושירותים
-https://example.com/collections-services
+https://moriyatachshitim.zappy5.app/collections-services
 עיינו באוספי התכשיטים המרהיבים של מוריה תכשיטים — טבעות אירוסין עם יהלום, תכשיטים בהתאמה אישית ושירותי צורפות מקצועיים. כל פריט מעוצב עם תשומת לב לפרטים ואהבה אמיתית למלאכה.
 
 ### ביקורות ואמון
-https://example.com/reviews-trust
+https://moriyatachshitim.zappy5.app/reviews-trust
 קראו מה אומרים לקוחותינו הנאמנים על מוריה תכשיטים — דירוג 4.6 כוכבים מתוך 138 ביקורות אמיתיות. גלו מדוע אנחנו החנות המועדפת לתכשיטים בירושלים ומה הופך אותנו לשונים מכולם.
 
 ### צור קשר וביקור
-https://example.com/contact
+https://moriyatachshitim.zappy5.app/contact
 מצאו אותנו בלב ירושלים ובואו לחוות שירות אישי וחם שרק מוריה תכשיטים יודעת לתת. צרו קשר לקביעת פגישה, שאלות על טבעות אירוסין עם יהלום או כל תכשיט בהתאמה אישית שחלמתם עליו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://moriyatachshitim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://moriyatachshitim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://moriyatachshitim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://moriyatachshitim.zappy5.app/contact
+- Endpoint: https://moriyatachshitim.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Moriah Jewelry is a well-established and highly-regarded jewelry store located i
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://moriyatachshitim.zappy5.app/sitemap.xml
+- Robots: https://moriyatachshitim.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://moriyatachshitim.zappy5.app/llms-full.txt
